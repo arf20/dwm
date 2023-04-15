@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=dwm
+Comment=Dynamic Window Manager
+Exec=/home/arf20/.dwmxinitrc
+Icon=
+Path=
+Terminal=false
+StartupNotify=false
