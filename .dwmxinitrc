@@ -1,0 +1,9 @@
+#!/bin/sh
+xcompmgr -c &
+feh --bg-scale /usr/share/wallpapers/rtelescope.jpg
+slstatus &
+nm-applet &
+pulseaudio --start
+pasystray &
+xfsettingsd &
+exec dwm
