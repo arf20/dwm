@@ -1,0 +1,23 @@
+mod = alt
+
+mod shift q:		exit
+mod shift enter:	terminal (st)
+mod shift c:		close
+mod p:			dmenu
+mod [1-9]:		goto tag (workspace)
+mod tab:		switch latest tag
+mod shift [1-9]:	move window to tag
+mod i:			increase master stack size
+mod d:			decrease master stack size
+mod l:			increase master area
+mod h:			decrease master area
+alt enter:		switch master and first slave
+mod b:			toggle bar
+
+mod space:		alternate mode
+mod t:			tiling mode
+mod f:			floating mode
+
+mod left_click:		move window around
+mod right_click:	resize window from bottom right corner
+
