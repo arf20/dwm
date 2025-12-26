@@ -14,9 +14,15 @@ mod h:			decrease master area
 alt enter:		switch master and first slave
 mod b:			toggle bar
 
+mod ,:          prev monitor
+mov .:          next monitor
+mod shift ,:    move to prev monitor
+mod shift .:    move to next monitor
+
 mod space:		alternate mode
 mod t:			tiling mode
 mod f:			floating mode
+mod m:			monocle, maximized
 
 mod left_click:		move window around
 mod right_click:	resize window from bottom right corner
